@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../practice"
+		},
+		{
+			"path": "../practice/oop"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practice"
+	}
+}
